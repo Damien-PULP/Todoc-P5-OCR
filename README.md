@@ -1,5 +1,5 @@
 ![alt text](screenshot/cleanup_ba2.png)
-![alt text](P4_screenshot/todoc-screenshot.png)
+![alt text](screenshot/todoc-screenshot.png)
 This is Todoc, the project 5 of OCR - Developper android
 Application for Cleanup
 ## 1. Download the project 
